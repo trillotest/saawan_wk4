@@ -1,0 +1,15 @@
+{
+  "authChoice" : "1",
+  "gitConnected" : false,
+  "logos" : {
+    "logoStamp" : "/saawan_wk4/shared/static/img/logo-stamp.png"
+  },
+  "name" : "saawan_wk4",
+  "rtChoice" : "gce",
+  "rtServerUrlDev" : "https://afddaaf3a916c11e8bf510a9a81a19cb-2056999138.us-east-1.elb.amazonaws.com",
+  "rtServerUrlInt" : "https://rt.trillo.io",
+  "rtServerUrlProduction" : "https://rt.trillo.io",
+  "rtServerUrlQA" : "https://rt.trillo.io",
+  "rtServerUrlStaging" : "https://rt.trillo.io",
+  "rtUrl" : "https://afddaaf3a916c11e8bf510a9a81a19cb-2056999138.us-east-1.elb.amazonaws.com"
+}
